@@ -1,9 +1,3 @@
-//
-//  InstagramCloneApp.swift
-//  InstagramClone
-//
-//  Created by Gary Tokman on 3/21/21.
-//
 
 import SwiftUI
 
